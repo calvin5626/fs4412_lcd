@@ -1,0 +1,3 @@
+git remote add origin git@github.com:calvin5626/fs4412_lcd.git
+
+git push -u origin master
